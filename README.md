@@ -4,7 +4,7 @@ Release v2:
 - UI: https://github.com/vadim9999/ant-farm-react
 - static server https://github.com/vadim9999/ant-farm-nodejs
 - API: https://github.com/vadim9999/ant-farm-python
-- Android App: https://github.com/vadim9999/ReactNativeAntFarm
+- Android App: https://github.com/vadim9999/AntFarmReactNative
 
 ---
 
